@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Days Till</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1b253b">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Days Till">
+</head>
+<body>
+    <div class="container">
+        
+        <div class="title">Days Till</div>
+        
+        <div class="subtxt">Never Miss What Truly Matters!</div>
+
+        <hr>
+        
+        <div class="addbtn">
+            <button class="add-event">+ Add New Event</button>
+        </div>
+        
+        <div class="events-list">
+           
+        </div>
+       
+        
+    </div>
+    
+    
+    <div class="popup-overlay" id="popupOverlay">
+        
+        <div class="popup-box">
+            
+            <h2>Add Event Details</h2>
+
+            <hr>
+            
+            <label>Event Name</label>
+            <input type="text" id="eventName" placeholder="e.g Meeting">
+            
+            
+            <label>Date</label>
+            <input type="date" id="eventDate">
+            
+            <div class="popup-btn">
+                
+                <button class="save-btn" id="saveBtn">Save</button>
+                <button class="cancel-btn" id="cancelBtn">Cancel</button>
+                
+            </div>
+            
+            
+        </div>
+        
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
