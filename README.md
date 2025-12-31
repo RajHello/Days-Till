@@ -12,5 +12,8 @@ I made this while learning JavaScript
 - **LocalStorage** - Your events persist even after you rage-quit the app
 - **No Sign-Up** - No chinese in me so no info stealing XD
 
+Here's It's Website:
+https://rajhello.github.io/Days-Till/
+
 Ik no one is seeing this but yea its a stupid project made to learn some java script...i may have taken (i did) some help from AI but we all do that right XD
 Thats it BYEEE
