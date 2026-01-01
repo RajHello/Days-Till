@@ -2,7 +2,7 @@
 
 > **Never Miss What Truly Matters!** *(or just procrastinate but with a good UI to glance upon)*
 
-A stupidly beautiful countdown app that makes waiting for stuff actually enjoyable. Built with pure HTML, CSS, and JavaScript because who needs 47 frameworks to count down to the midsem youre prolly gonna fail :D
+A stupidly beautiful countdown website that makes waiting for stuff actually enjoyable. Built with pure HTML, CSS, and JavaScript because who needs 47 frameworks to count down to the midsem youre prolly gonna fail :D
 I made this while learning JavaScript
 
 ## ✨ Features(there arent much) 
