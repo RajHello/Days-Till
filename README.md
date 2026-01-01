@@ -2,7 +2,7 @@
 
 > **Never Miss What Truly Matters!** *(or just procrastinate but with a good UI to glance upon)*
 
-A stupidly beautiful semi-useless countdown website. Built with HTML, CSS, and JavaScript because who needs 47 frameworks to count down to the midsem youre prolly gonna fail :D
+A stupidly beautiful semi-useless countdown website. Built with HTML, CSS, and JavaScript because who needs 47 frameworks to count down to the midsem you're prolly gonna fail :D
 I made this while learning JavaScript
 
 ## ✨ Features(there arent much) 
